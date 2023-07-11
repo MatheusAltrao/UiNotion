@@ -39,7 +39,7 @@ const Editor = () => {
 
 
       <EditorContent
-        className='max-w-[700px] h-[750px] mx-auto py-16 prose prose-invert style-scroll  overflow-y-scroll prose-p:opacity-90 pr-4'
+        className='max-w-[700px] h-[750px] mx-auto  py-4 lg:py-16 prose prose-invert style-scroll  overflow-y-scroll prose-p:opacity-90 pr-4'
         editor={editor}
       />
 
